@@ -98,6 +98,7 @@ html,body{
 	display: list-item;
 	list-style-image: url('open-book.png');
 }
+
 #right-content{
 	background-color: #EFEDF0;
 	width: 60%;
@@ -164,3 +165,5 @@ html,body{
 	text-align: center;
 	color: white;
 }
+
+/**I deleted the footer :c*/
