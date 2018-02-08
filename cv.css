@@ -78,7 +78,26 @@ html,body{
 	text-align: center;
 	margin-top: 5%;
 }
-
+#travel{
+	display: list-item;
+	list-style-image: url('backpack.png');
+}
+#cooking{
+	display: list-item;
+	list-style-image: url('cooking.png');
+}
+#video{
+	display: list-item;
+	list-style-image: url('joystick.png');
+}
+#sleep{
+	display: list-item;
+	list-style-image: url('dream.png');
+}
+#read{
+	display: list-item;
+	list-style-image: url('open-book.png');
+}
 #right-content{
 	background-color: #EFEDF0;
 	width: 60%;
